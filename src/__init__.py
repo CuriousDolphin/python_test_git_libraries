@@ -1,2 +1,2 @@
 from .LibA import *
-from .LibA import *
+from .LibB import *
